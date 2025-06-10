@@ -4,7 +4,7 @@ Melon 차트에서 수집한 음악 데이터를 바탕으로, 가사의 감정�
 ## Methods
 국내 음원 사이트인 Melon사의 지난 25년간 인기 음악 2,468곡의 데이터를 이용하여 분석을 진행하였습니다. [기상청](https://data.kma.go.kr/stcs/grnd/grndTaList.do)으로부터 음악 발매월의 월 평균 기온을 수집하였으며, [감정 분류 모델](https://huggingface.co/daniel604/koelectra-base-v3-finetuned-emotion)을 생성하여 가사의 감정을 취득하였습니다.
 
-![Image](https://github.com/user-attachments/assets/9529a8ed-2e8c-4434-8dec-e2d5d458c8c0)
+![Image](https://github.com/user-attachments/assets/61f49f64-40f2-48cd-bbe9-c61065333831)
 
 #### Fine tuned emotion classification model
 
